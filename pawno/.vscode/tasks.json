@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build pawn script",
+            "type": "shell",
+            "command": "${workspaceRoot}\\pawno\\pawncc.exe",
+            "args": [
+                "${fileBasename}",
+                "-d3"
+            ],
+            "options": {
+                "cwd": "${workspaceRoot}\\gamemodes"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
