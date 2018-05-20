@@ -3,7 +3,6 @@
 /*==================================================================================*/
 																																												*/
 #define SERVER_NAME_PASS "서버 점검 중입니다"
-#define SERVER_PASSWORD ""
 
 #define SERVER_NAME	"◈[K-POP]이하이절벽질주 : 관리팀 구인◈"
 #define SERVER_WEBSITE "cafe.daum.net/Leehi"

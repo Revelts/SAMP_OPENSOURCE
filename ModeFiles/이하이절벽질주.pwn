@@ -49,8 +49,6 @@
 #include <SERVER>/*Last Load Include*/
 #include <a_samp>
 #include <streamer>
-#include <audio>
-#include <CCT>
 
 #include <core>/*¾ÈÆ¼ Deamx*/
 #include <float>
